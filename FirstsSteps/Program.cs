@@ -121,9 +121,9 @@ double firstDecimalsEver = 5.5;
 /// Para realizar operaciones necesitas varios double, las operaciones básicas son
 /// suma (+), resta (-), multiplicacion (*) y división (/)
 
-int primerDouble = 3;
-int segundoDouble = 7;
-int divisionDouble = primerNumero/segundoNumero;
+double primerDouble = 3.5;
+double segundoDouble = 7.5;
+double divisionDouble = primerDouble / segundoDouble;
 
 // **************** EJERCICIO 3 *******************************
 /// Prueba a realizar una resta de dos double e imprimirlo por pantalla.
