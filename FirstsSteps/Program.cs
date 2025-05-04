@@ -29,7 +29,7 @@ Console.WriteLine("Hello, World!");
 /// o conjunto de caracteres, ya sea una letra, una palabra o 
 /// una frase. Cualquier string debe inicializarse con un nombre.
 
-string firstStringEver = "Este es mi primer string";
+string firstStringEver = "Este es mi primer string";s
 
 // **************** EJERCICIO 1 *******************************
 /// Los string pueden ser utilizados por otros "métodos", como 
